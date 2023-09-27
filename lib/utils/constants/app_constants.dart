@@ -2,5 +2,5 @@
 class AppConstants {
   static const String mobileConnectionStatus = "ConnectivityResult.mobile";
   static const String wifiConnectionStatus = "ConnectivityResult.wifi";
-  static const String agoraAppId = "<Your Agora APP Id>";
+  static const String agoraAppId = "afca5c33004245d5b3b28c618714cb5c";
 }
